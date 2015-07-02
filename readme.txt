@@ -6,3 +6,5 @@ Git is free software.
 Git Helo world 
 ddd
 git git
+
+git add commit
